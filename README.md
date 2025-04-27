@@ -1,33 +1,46 @@
-# 🦇 Aryan Patil
+# 🦇 Who is Aryan?
 
-> *"Silence is power. Code is my language."*
-
----
-
-🚀 Building intelligent systems — Generative AI, Reinforcement Learning, Computer Vision, and beyond.  
-🛠️ Creator of real-world AI applications and open-source tools.
-
-[Portfolio](https://aryanator.github.io/) • [LinkedIn](https://linkedin.com/in/aryanpatil01/) • [GitHub](https://github.com/aryanator)
+> They told me "Go touch grass."  
+> So I trained a model to predict the best parks instead.
 
 ---
 
-## 🛡️ Skills
-`Python` `PyTorch` `TensorFlow` `LangChain` `FastAPI` `Hugging Face` `Docker` `AWS` `GCP` `PostgreSQL`
+## 👾 About Me
+
+- AI/ML Engineer in the streets.  
+- Bad at naming variables in the sheets.  
+- Building models that hallucinate slightly less than I do at 3am.
 
 ---
 
-## ⚡ Stats
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+## 🛠️ Current Arsenal
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanator&layout=compact&theme=tokyonight&hide_border=true)
+`Python` `PyTorch` `TensorFlow` `LangChain` `FastAPI` `Hugging Face` `Docker` `AWS` `GCP`
 
----
-
-## 🛠️ Projects
-> *Pinned below... true work speaks for itself.*  
-(Scroll down 🔽)
+(yes, I know... everybody's using these. I just use them cooler.)
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aryanator&title=Bat-Signals)
+## 🔥 Fun Fact
 
+I once trained a reinforcement learning agent...  
+only for it to optimize "doing absolutely nothing" — and honestly?  
+Respect.
+
+---
+
+## 📂 Projects
+
+Scroll down ⬇️ for my finest works:  
+Some will amaze you.  
+Some will confuse you.  
+All were written under questionable amounts of caffeine.
+
+---
+
+## 🦇 Contact
+
+> Find me lurking around:  
+> [Portfolio](https://aryanator.github.io/) • [LinkedIn](https://linkedin.com/in/aryanpatil01/) • [GitHub](https://github.com/aryanator)
+
+---
