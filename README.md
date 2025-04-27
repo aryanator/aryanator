@@ -4,46 +4,47 @@
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 # 🦇 Project: Aryan Patil
 
 > "They told me 'touch grass.'  
 > I taught machines to find better grass."
 
----
-
 ## 🧠 Psychological Profile
+- AI/ML engineer confusing himself and others
+- Optimizing agents to master existential dread
+- Reality bender. Overthinker. Troublemaker.
 
-- 📚 AI/ML engineer with a side hobby of confusing himself and others.
-- 🔥 Optimizes reinforcement learning agents to master existential dread.
-- ⚡ Specializes in **building**, **breaking**, and **laughing at** machine learning systems.
-- 🌪 Professional overthinker. Hobbyist reality bender.
-- 🕶️ Operates under the belief that if reality can’t be bent, it’s not worth building for.
-
----
-
-## 🛠️ Toolkit (a.k.a Weapons)
-
+## 🛠️ Weapons
 - `Python` — indentation PTSD
-- `PyTorch` — building confused neurons
-- `LangChain` — linking regret to every large language model
-- `FastAPI` — deploying faster than my self-esteem crashes
+- `PyTorch` — confused neurons
+- `LangChain` — regret chaining
+- `FastAPI` — blink-and-deploy
 - `Docker` — boxing chaos
-- `AWS` — renting my mistakes on cloud infrastructure
+- `AWS` — cloud-based regrets
 
----
+</td>
 
-## 📂 Case Files (Projects)
+<td width="50%" valign="top">
 
+## 📂 Case Files
 > Pinned below.  
-> Proceed with caution. Side effects may include: overthinking, admiration, and existential crises.
+Proceed at your own risk.
 
----
+## 🎯 Mission Control
+- [Portfolio](https://aryanator.github.io/) — Watching others fake it
+- [LinkedIn](https://linkedin.com/in/aryanpatil01/) — Pretending seriousness
+- [GitHub](https://github.com/aryanator) — Crimes against computation
 
-## 🎯 Mission Control (Contact)
+## 🦇 Bat-Signals
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aryanator&title=Bat-Signals)
 
-- [Portfolio](https://aryanator.github.io/) — Watching others fake it on LinkedIn since 2020.
-- [LinkedIn](https://linkedin.com/in/aryanpatil01/) — Pretending to be serious.
-- [GitHub](https://github.com/aryanator) — Actual crimes against computation.
+</td>
+</tr>
+</table>
 
 ---
 
