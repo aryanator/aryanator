@@ -13,8 +13,8 @@
 # 🦇 Project: Aryan Patil
 
 > "I once trained a reinforcement learning agent...'
-only for it to discover that "doing absolutely nothing" was the optimal strategy.'
-> =Honestly? Respect."
+> only for it to discover that "doing absolutely nothing" was the optimal strategy.'
+> Honestly? Respect."
 
 ## 🧠 Psychological Profile
 - AI/ML engineer confusing himself and others
