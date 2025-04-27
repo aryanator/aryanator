@@ -4,9 +4,11 @@
 
 ---
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 # 🦇 Project: Aryan Patil
 
@@ -28,7 +30,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ## 📂 Case Files
 > Pinned below.  
@@ -39,12 +41,11 @@ Proceed at your own risk.
 - [LinkedIn](https://linkedin.com/in/aryanpatil01/) — Pretending seriousness
 - [GitHub](https://github.com/aryanator) — Crimes against computation
 
-## 🦇 Bat-Signals
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aryanator&title=Bat-Signals)
-
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
