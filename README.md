@@ -1,19 +1,33 @@
-# Aryan Patil
+# 🦇 Aryan Patil
 
-> Building AI systems that think faster, retrieve smarter, and operate at scale.
-
----
-
-**Specialties**  
-- LLM Engineering • RAG Pipelines • Real-Time Inference • CUDA Optimization • Deployment at Scale
-
-**Selected Builds**  
-- Real-time RAG Recommender (LangChain + FAISS + GPT-4o)  
-- LLM Evaluation Pipelines (Benchmarking hallucinations & robustness)  
-- Inference Scaling with TensorRT-LLM, CUDA, Quantization  
-- Anomaly Detection Systems for Cybersecurity
+> *"Silence is power. Code is my language."*
 
 ---
 
-> Always Building. Always Shipping. Always Stealth.
+🚀 Building intelligent systems — Generative AI, Reinforcement Learning, Computer Vision, and beyond.  
+🛠️ Creator of real-world AI applications and open-source tools.
+
+[Portfolio](https://aryanator.github.io/) • [LinkedIn](https://linkedin.com/in/aryanpatil01/) • [GitHub](https://github.com/aryanator)
+
+---
+
+## 🛡️ Skills
+`Python` `PyTorch` `TensorFlow` `LangChain` `FastAPI` `Hugging Face` `Docker` `AWS` `GCP` `PostgreSQL`
+
+---
+
+## ⚡ Stats
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanator&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🛠️ Projects
+> *Pinned below... true work speaks for itself.*  
+(Scroll down 🔽)
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aryanator&title=Bat-Signals)
 
