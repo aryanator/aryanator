@@ -12,8 +12,9 @@
 
 # 🦇 Project: Aryan Patil
 
-> "They told me 'touch grass.'  
-> I taught machines to find better grass."
+> "I once trained a reinforcement learning agent...'
+only for it to discover that "doing absolutely nothing" was the optimal strategy.'
+> =Honestly? Respect."
 
 ## 🧠 Psychological Profile
 - AI/ML engineer confusing himself and others
@@ -37,10 +38,6 @@
 > Pinned below.  
 Proceed at your own risk.
 
-## 🎯 Mission Control
-- [Portfolio](https://aryanator.github.io/) — Watching others fake it
-- [LinkedIn](https://linkedin.com/in/aryanpatil01/) — Pretending seriousness
-- [GitHub](https://github.com/aryanator) — Crimes against computation
 
 </td>
 </tr>
