@@ -39,7 +39,7 @@ Honestly? Respect.
 
 # 📬 Where To Find Me
 
-- [Portfolio](https://aryanator.github.io/) — fake it till you make it
+- [Portfolio](https://aryanator.github.io/) — watching others fake it on LinkedIn
 - [LinkedIn](https://linkedin.com/in/aryanpatil01/) — pretending to be serious
 - [GitHub](https://github.com/aryanator) — actual crimes against computation
 
