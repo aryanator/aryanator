@@ -20,6 +20,11 @@
 - Optimizing agents to master existential dread
 - Reality bender. Overthinker. Troublemaker.
 
+
+</td>
+
+<td width="48%" valign="top">
+
 ## 🛠️ Weapons
 - `Python` — indentation PTSD
 - `PyTorch` — confused neurons
@@ -27,10 +32,6 @@
 - `FastAPI` — blink-and-deploy
 - `Docker` — boxing chaos
 - `AWS` — cloud-based regrets
-
-</td>
-
-<td width="48%" valign="top">
 
 ## 📂 Case Files
 > Pinned below.  
