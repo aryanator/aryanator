@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Loading+Classified+File...;Subject%3A+Aryan+Patil;Status%3A+Active+Threat;Humor%3A+Weaponized" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1200&center=true&vCenter=true&width=600&lines=Initializing+Secure+Connection...;Decrypting+Classified+File...;Subject%3A+Aryan+Patil;Status%3A+Active+Threat;Specialty%3A+Existential+Algorithms;Humor%3A+Weaponized;Caution%3A+Approach+with+Coffee+and+Skepticism" alt="Typing SVG" />
 </p>
+
 
 ---
 
