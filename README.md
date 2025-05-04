@@ -51,7 +51,6 @@ Proceed at your own risk.
 <p align="center">
 🦇  
 <em>
-"I didn’t choose to fight the chaos.  
-I just figured it was better to laugh while it burns."
+"The probability of a possibility can be anything from zero to one. But the possibility of a probability is itself the probability of a possibility."
 </em>
 </p>
