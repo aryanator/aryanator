@@ -30,9 +30,9 @@
 ## 🛠️ Weapons
 - `Python` — indentation PTSD
 - `PyTorch` — confused neurons
+- `Transformers` — attention please
 - `LangChain` — regret chaining
 - `FastAPI` — blink-and-deploy
-- `Docker` — boxing chaos
 - `AWS` — cloud-based regrets
 
 ## 📂 Case Files
